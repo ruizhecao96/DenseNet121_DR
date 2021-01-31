@@ -17,6 +17,6 @@ Trainer.ft_layer_idx = 129
 # Input pipeline
 load.name = 'idrid'
 # Dataset dir including idrid dataset, need to be changed to your own dir
-load.dataset_dir='/misc/home/RUS_CIP/st170042/Dataset'
+load.dataset_dir='home/Dataset'
 load.BATCH_SIZE = 32
 load.tfrecord = True
